@@ -25,7 +25,7 @@ Two concepts underpin the software:
 - **Digital Twin:** A virtual representation of a physical system that allows engineers to simulate scenarios in real time, monitor performance, and optimise operation throughout the system's lifecycle.
 
 The digital twin architecture was first proposed by Michael Grieves, who defined three main parts: the **physical space** (the real-world product), the **virtual space** (a detailed replicated simulation of the physical system), and a **bidirectional flow of data and information** linking the two. The architecture is shown below.
-
+https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/de9fd5569c75010b2ea0d493c4703657884bd86e/architecture%20of%20digital%20twin%20by%20grieves.png
 Digital twin architecture by Michael Grieves
 
 ### Software Framework
