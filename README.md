@@ -33,7 +33,7 @@ The digital twin architecture was first proposed by Michael Grieves, who defined
 
 Our framework is divided into two main parts: **CubeSat Design** and **Digital Twin.**
 
-Software framework overview
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/de0c95730a6a83ac7b55e2c99d757303ba19aac1/1U%20CubeSat%20Digital%20Twin%20Framework.png)
 
 ### CubeSat Design
 
