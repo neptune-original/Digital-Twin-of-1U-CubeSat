@@ -1,6 +1,6 @@
 # Design and Development of a Digital Twin for a 1U CubeSat
 
-_Note on source code: The source code for this project is kept private. This repository instead documents the project's methodology, architecture, and features, and includes screenshots of the software along with a preview video demonstrating each feature (see [Software Preview](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing))._ 
+_Note on source code: The source code for this project is kept private. This repository instead documents the project's methodology, architecture, and features, and includes screenshots of the software along with a preview video demonstrating each feature (see **[Software Preview](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing))**._ 
 
 ## Overview
 
@@ -14,7 +14,7 @@ A CubeSat is designed hierarchically from **elements**, which are placed on **bo
 
 A screen-recorded preview video walks through each feature of the software, from CubeSat design to orbit simulation and thermal analysis.
 
-- Preview video: [Watch on Google Drive](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing)
+- Preview video: **[Watch on Google Drive](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing)**
 
 Screenshots of each module are included in the sections below.
 
