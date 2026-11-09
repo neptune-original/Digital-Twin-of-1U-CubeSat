@@ -1,4 +1,4 @@
-# Design and Development of a Digital Twin of a 1U CubeSat
+# Design and Development of a Digital Twin for a 1U CubeSat
 
 _Note on source code: The source code for this project is kept private. This repository instead documents the project's methodology, architecture, and features, and includes screenshots of the software along with a preview video demonstrating each feature (see [Software Preview](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing))._ 
 
