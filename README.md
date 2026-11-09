@@ -41,7 +41,7 @@ The interface is deliberately organised into clear stages to balance technical a
 
 **1. Elements**
 
-Elements screen
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/element%20designer%20screen.png)
 
 The primary interface for defining and configuring individual CubeSat components.
 
@@ -51,7 +51,7 @@ The primary interface for defining and configuring individual CubeSat components
 
 **2. Boards**
 
-Boards screen
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/Board%20Designer%20screen.png)
 
 The environment for arranging components onto functional boards.
 
@@ -61,7 +61,7 @@ The environment for arranging components onto functional boards.
 
 **3. Stacks**
 
-Stacks screen
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/Stack%20Designer%20Screen.png)
 
 The environment where individual boards are assembled into a complete CubeSat stack.
 
@@ -70,14 +70,15 @@ The environment where individual boards are assembled into a complete CubeSat st
 
 **4. Connections**
 
-Connections screen
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/connections%20designer%20screen.png)
 
 Logical relationships between components are defined in a visual node editor. Each node represents a component and exposes the inputs and outputs declared in its assigned script. Users create links by dragging from an output on one node to a compatible input on another, which makes data and power paths explicit and easy to audit. This gives a clear and reliable environment for building and validating the internal logic of the CubeSat.
 
 ### Digital Twin
 
 **1. Orbit Simulation**
-Orbit simulation screen
+
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/Orbit%20Designer%20Screen.png)
 
 The orbital model follows the laws of Keplerian motion. The satellite's position and trajectory are determined by the six classical orbital elements: semi-major axis (a), eccentricity (e), inclination (i), right ascension of the ascending node (Ω), argument of perigee (ω), and true anomaly (ν).
 
@@ -90,7 +91,7 @@ Together, these features make the Orbit Designer a precise and intuitive space f
 
 **2. Thermal Analysis**
 
-Thermal analysis screen
+![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/18077c4e4969e46d902958d8bc00ea5c7ee0e519/thermal%20testing%20screen.png)
 
 The thermal module is based on the Stefan–Boltzmann law, which relates the radiation emitted by a body to its temperature. The simulation accounts for solar radiation, internal conduction between components, and external environmental factors such as eclipse periods.
 
