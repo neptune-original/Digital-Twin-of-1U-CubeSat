@@ -1,8 +1,8 @@
-#Design and Development of a Digital Twin of a 1U CubeSat
+# Design and Development of a Digital Twin of a 1U CubeSat
 
 _Note on source code: The source code for this project is kept private. This repository instead documents the project's methodology, architecture, and features, and includes screenshots of the software along with a preview video demonstrating each feature (see [Software Preview](https://drive.google.com/drive/folders/1E7x9T0EJkNkIT8lyUcInd9Uu3X_MBSAc?usp=sharing))._ 
 
-### Overview
+## Overview
 
 This final year project, developed by a group of three, is a software platform that lets users design a 1U CubeSat and simulate its digital twin in terms of thermal and orbital behaviour. The framework brings together structural design, thermal analysis, and orbital modelling in a single three-dimensional environment, so that subsystems can be visualised and evaluated effectively.
 
@@ -10,7 +10,7 @@ A CubeSat is designed hierarchically from **elements**, which are placed on **bo
 
 **Scope:** The simulations run under idealised space-environment conditions created virtually, and the platform is limited to 1U CubeSats.
 
-### Software Preview
+## Software Preview
 
 A screen-recorded preview video walks through each feature of the software, from CubeSat design to orbit simulation and thermal analysis.
 
@@ -18,7 +18,7 @@ A screen-recorded preview video walks through each feature of the software, from
 
 Screenshots of each module are included in the sections below.
 
-### **Background**
+## **Background**
 
 Two concepts underpin the software:
 
@@ -31,13 +31,13 @@ The digital twin architecture was first proposed by Michael Grieves, who defined
 ![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/de9fd5569c75010b2ea0d493c4703657884bd86e/architecture%20of%20digital%20twin%20by%20grieves.png)
 
 
-### Software Framework
+## Software Framework
 
 Our framework is divided into two main parts: **CubeSat Design** and **Digital Twin.**
 
 ![image alt](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat/blob/de0c95730a6a83ac7b55e2c99d757303ba19aac1/1U%20CubeSat%20Digital%20Twin%20Framework.png)
 
-### CubeSat Design
+## CubeSat Design
 
 The interface is deliberately organised into clear stages to balance technical accuracy with usability. A CubeSat involves many interconnected subsystems, and traditional tools often overwhelm users by exposing too much detail at once. Separating the process into stages lets users focus on one aspect at a time while keeping a consistent overall framework, which reduces cognitive load.
 
@@ -76,7 +76,7 @@ The environment where individual boards are assembled into a complete CubeSat st
 
 Logical relationships between components are defined in a visual node editor. Each node represents a component and exposes the inputs and outputs declared in its assigned script. Users create links by dragging from an output on one node to a compatible input on another, which makes data and power paths explicit and easy to audit. This gives a clear and reliable environment for building and validating the internal logic of the CubeSat.
 
-### Digital Twin
+## Digital Twin
 
 **1. Orbit Simulation**
 
