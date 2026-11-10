@@ -100,3 +100,13 @@ The thermal module is based on the Stefan–Boltzmann law, which relates the rad
 - **Thermal toggle:** visualises heat distribution across the CubeSat, giving immediate insight into thermal behaviour under different orbital conditions.
 - **Data export:** results can be exported as CSV files for deeper offline analysis.
 - **Ground station link visualisation:** projects uplink and downlink beams during visible passes to test communication feasibility.
+
+## Related Project
+
+To complement this digital twin, we also created detailed 3D models of the 1U CubeSat subsystems in Blender (structure, EPS, OBC, communication system, ADCS and camera payload), including editable source files and rotating preview clips.
+
+- **Digital twin project:** [Designed 1U CubeSat Subsystems using Blender](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat)
+
+## Notes
+
+All software, models, images and videos in this project are the work of our project group. Please contact me before reusing or redistributing them.
