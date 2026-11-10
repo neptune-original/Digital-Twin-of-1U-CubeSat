@@ -105,7 +105,7 @@ The thermal module is based on the Stefan–Boltzmann law, which relates the rad
 
 To complement this digital twin, we also created detailed 3D models of the 1U CubeSat subsystems in Blender (structure, EPS, OBC, communication system, ADCS and camera payload), including editable source files and rotating preview clips.
 
-- **Digital twin project:** [Designed 1U CubeSat Subsystems using Blender](https://github.com/neptune-original/Digital-Twin-of-1U-CubeSat)
+- **Blender subsystem models:** [3D Design of 1U CubeSat Subsystems in Blender](https://github.com/neptune-original/3D-Design-of-1U-CubeSat-Subsystems-in-Blender)
 
 ## Notes
 
